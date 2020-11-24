@@ -17,6 +17,7 @@ If you are new to PowerShell and would like to learn more, I recommend reviewing
 1. Download or clone this repository on your desktop.
 2. Copy the directory Barracuda.WAF to one of the following directories:
   * $env:USERPROFILE\Documents\WindowsPowerShell\Modules
+  * $env:USERPROFILE\Documents\PowerShell\Modules
   * C:\Program Files\WindowsPowerShell\Modules
   * C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 
